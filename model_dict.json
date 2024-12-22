@@ -18,6 +18,18 @@
             "sadness": 55,
             "surprise": 55
         }
+    },
+    {
+        "name": "hiyori",
+        "description": "hiyori desu.",
+        "url": "/live2d-models/hiyori/hiyori.model3.json",
+        "kScale": 0.000525,
+        "initialXshift": 0,
+        "initialYshift": 812,
+        "kXOffset": 1150,
+        "idleMotionGroupName": "idle",
+        "emotionMap": {
+        }
     },    
     {
         "name": "shizuku-local",
