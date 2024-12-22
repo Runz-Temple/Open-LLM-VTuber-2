@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "bitg.moc3",
+		"Textures": [
+			"bitg.4096/texture_00.png",
+			"bitg.4096/texture_01.png"
+		],
+		"Physics": "bitg.physics3.json",
+		"DisplayInfo": "bitg.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

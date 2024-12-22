@@ -1,5 +1,25 @@
 [
     {
+        "name": "bitcoinko",
+        "description": "Yet another bitcoin.",
+        "url": "/live2d-models/bitcoinko/bitg.model3.json",
+        "kScale": 0.000625,
+        "initialXshift": 0,
+        "initialYshift": 612,
+        "kXOffset": 1150,
+        "idleMotionGroupName": "Idle",
+        "emotionMap": {
+            "neutral": 51,
+            "anger": 52,
+            "disgust": 52,
+            "fear": 53,
+            "joy": 54,
+            "smirk": 55,
+            "sadness": 55,
+            "surprise": 55
+        }
+    },    
+    {
         "name": "shizuku-local",
         "description": "Orange-Haired Girl, locally available. no internet required.",
         "url": "/live2d-models/shizuku/shizuku.model.json",
