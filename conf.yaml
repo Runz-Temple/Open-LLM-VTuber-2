@@ -22,12 +22,12 @@ LLM_PROVIDER: "ollama"
 # Ollama & OpenAI Compatible inference backend
 ollama:
   # BASE_URL: "http://localhost:11434"
-  BASE_URL: "https://api.moonshot.cn/v1"
-  LLM_API_KEY: ""
+  BASE_URL: "https://openrouter.ai/api/v1"
+  LLM_API_KEY: "deeper"
   ORGANIZATION_ID: "test"
   PROJECT_ID: "test"
   ## LLM name
-  MODEL: "moonshot-v1-auto"
+  MODEL: "deepseek/deepseek-r1-zero:free"
   # system prompt is at the very end of this file
   VERBOSE: False
 
